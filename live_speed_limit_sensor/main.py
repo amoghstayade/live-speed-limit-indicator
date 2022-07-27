@@ -2,13 +2,13 @@ import serial
 import time
 import sys
 import requests
-# import json
 import os
+import json
 from dotenv import load_dotenv
 
 load_dotenv()
 
-def GPS_Info():
+def GPS_Info():                                 #TODO: Move to a different class
     global NMEA_buff
     global GPVTG_arr
     global lat_in_degrees
@@ -27,7 +27,7 @@ def GPS_Info():
         long_in_degrees = "-" + long_in_degrees
 
 #convert raw NMEA string into degree decimal format
-def convert_to_degrees(raw_value):
+def convert_to_degrees(raw_value):              #TODO: Move to a different class
     decimal_value = raw_value/100.00
     degrees = int(decimal_value)
     mm_mmmm = (decimal_value - int(decimal_value))/0.6
@@ -63,13 +63,13 @@ try:
         speed_status = "within_speed_limit"                     # "green""green"-within speed limit, "orange""orange"-5mph within speed limit, "orange""red"-above speed limit less than 10, "red""red" - above speed limit more than 10
         received_data = (str)(ser.readline())                   #read NMEA string received
         GPGGA_data_available = received_data.find(gpgga_info)   #check for NMEA GPGGA string
-        GPVTG_data_available = received_data.find(gpvtg_info)
+        GPVTG_data_available = received_data.find(gpvtg_info)   #check for NMEA GPVYG string
         if (GPGGA_data_available>0):
             GPGGA_buffer = received_data.split("$GPGGA,",1)[1]  #store data coming after "$GPGGA," string
             NMEA_buff = (GPGGA_buffer.split(','))               #store comma separated data in buffer
             GPS_Info()                                          #get time, latitude, longitude
             # print("lat in degrees:", lat_in_degrees," long in degree: ", long_in_degrees, '\n')
-            required_info["lat_in_degrees"] = lat_in_degrees
+            required_info["lat_in_degrees"] = lat_in_degrees    # TODO: add exception for lat and long
             required_info["long_in_degrees"] = long_in_degrees
         elif (GPVTG_data_available>0):
             GPVTG_buffer = received_data.split("$GPVTG,",1)[1]
@@ -82,7 +82,6 @@ try:
             required_info["current_speed"] = current_speed
 
         if len(required_info) == 3:
-            # url = f"https://router.hereapi.com/v8/routes?destination={required_info['lat_in_degrees']},{required_info['long_in_degrees']}&origin={required_info['lat_in_degrees']},{required_info['long_in_degrees']}&return=polyline&transportMode=car&spans=maxSpeed,names&apikey={HERE_API_KEY}"
             url = HERE_API_URL.format(required_info['lat_in_degrees'], required_info['long_in_degrees'], required_info['lat_in_degrees'], required_info['long_in_degrees'], HERE_API_KEY)
             payload={}
             headers = {}
@@ -102,12 +101,15 @@ try:
                 if current_speed > max_speed+5:
                     speed_status = "above_speed_limit_+5"
                 # print(led_colors)
-            print({
+            telemetry = {
                 "current_speed": str(current_speed)+"mph",
                 "speed_limit": str(max_speed)+"mph",
                 "speed_status": speed_status,
                 "led_colors": led_colors[speed_status]
-            })
+            }
+            print(telemetry)
+            with open("speed_limit_data.txt", 'a') as f:
+                f.write(json.dumps(telemetry))
             required_info = {}
             time.sleep(1)
 
