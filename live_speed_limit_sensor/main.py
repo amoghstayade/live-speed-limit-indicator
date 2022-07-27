@@ -55,11 +55,12 @@ led_colors = {
 }
 
 HERE_API_KEY = os.getenv('HERE_API_KEY')
-print("HERE API KEY: ", HERE_API_KEY)
+HERE_API_URL = os.getenv('HERE_API_URL')
+# print("HERE API KEY: ", HERE_API_KEY)
 
 try:
     while True:
-        speed_status = "within_speed_limit" #"N/A":invalid, "green""green"-within speed limit, "orange""orange"-5mph within speed limit, "orange""red"-above speed limit less than 10, "red""red" - above speed limit more than 10
+        speed_status = "within_speed_limit"                     # "green""green"-within speed limit, "orange""orange"-5mph within speed limit, "orange""red"-above speed limit less than 10, "red""red" - above speed limit more than 10
         received_data = (str)(ser.readline())                   #read NMEA string received
         GPGGA_data_available = received_data.find(gpgga_info)   #check for NMEA GPGGA string
         GPVTG_data_available = received_data.find(gpvtg_info)
@@ -81,7 +82,8 @@ try:
             required_info["current_speed"] = current_speed
 
         if len(required_info) == 3:
-            url = f"https://router.hereapi.com/v8/routes?destination={required_info['lat_in_degrees']},{required_info['long_in_degrees']}&origin={required_info['lat_in_degrees']},{required_info['long_in_degrees']}&return=polyline&transportMode=car&spans=maxSpeed,names&apikey={HERE_API_KEY}"
+            # url = f"https://router.hereapi.com/v8/routes?destination={required_info['lat_in_degrees']},{required_info['long_in_degrees']}&origin={required_info['lat_in_degrees']},{required_info['long_in_degrees']}&return=polyline&transportMode=car&spans=maxSpeed,names&apikey={HERE_API_KEY}"
+            url = HERE_API_URL.format(required_info['lat_in_degrees'], required_info['long_in_degrees'], required_info['lat_in_degrees'], required_info['long_in_degrees'], HERE_API_KEY)
             payload={}
             headers = {}
             response = requests.request("GET", url, headers=headers, data=payload)
