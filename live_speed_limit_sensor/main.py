@@ -109,7 +109,8 @@ try:
             }
             print(telemetry)
             with open("speed_limit_data.txt", 'a') as f:
-                f.write(json.dumps(telemetry))
+                json.dump(telemetry, f)
+                f.write('\n')
             required_info = {}
             time.sleep(1)
 
