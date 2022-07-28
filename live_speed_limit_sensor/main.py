@@ -34,16 +34,20 @@ def convert_to_degrees(raw_value):              #TODO: Move to a different class
     position = degrees + mm_mmmm
     position = "%.4f" %(position)
     return position
-try:
-    HERE_API_KEY = os.getenv('HERE_API_KEY')
-    HERE_API_URL = os.getenv('HERE_API_URL')
-    GPGGA_INFO = os.getenv('GPGGA_INFO')
-    GPVTG_INFO = os.getenv('GPVTG_INFO')
-    SERIAL_PORT = os.getenv('SERIAL_PORT')
-    BAUD_RATE = os.getenv('BAUD_RATE')
-except:
-    print("Env variables not availale")
-    sys.exit(1)
+
+required_envs = ['HERE_API_KEY', 'HERE_API_URL', 'GPGGA_INFO', 'GPVTG_INFO', 'SERIAL_PORT', 'BAUD_RATE']
+
+for i in required_envs:
+    if i not in os.environ:
+        print(f"{i} not available in .env")
+        sys.exit(1)
+
+HERE_API_KEY = os.getenv('HERE_API_KEY')
+HERE_API_URL = os.getenv('HERE_API_URL')
+GPGGA_INFO = os.getenv('GPGGA_INFO')
+GPVTG_INFO = os.getenv('GPVTG_INFO')
+SERIAL_PORT = os.getenv('SERIAL_PORT')
+BAUD_RATE = os.getenv('BAUD_RATE')
 
 gpgga_info = GPGGA_INFO
 gpvtg_info = GPVTG_INFO
