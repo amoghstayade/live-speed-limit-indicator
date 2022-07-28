@@ -34,11 +34,20 @@ def convert_to_degrees(raw_value):              #TODO: Move to a different class
     position = degrees + mm_mmmm
     position = "%.4f" %(position)
     return position
+try:
+    HERE_API_KEY = os.getenv('HERE_API_KEY')
+    HERE_API_URL = os.getenv('HERE_API_URL')
+    GPGGA_INFO = os.getenv('GPGGA_INFO')
+    GPVTG_INFO = os.getenv('GPVTG_INFO')
+    SERIAL_PORT = os.getenv('SERIAL_PORT')
+    BAUD_RATE = os.getenv('BAUD_RATE')
+except:
+    print("Env variables not availale")
+    sys.exit(1)
 
-
-gpgga_info = "$GPGGA,"
-gpvtg_info = "$GPVTG,"
-ser = serial.Serial ("/dev/ttyACM0",19200)              #Open port with baud rate
+gpgga_info = GPGGA_INFO
+gpvtg_info = GPVTG_INFO
+ser = serial.Serial (SERIAL_PORT,BAUD_RATE)              #Open port with baud rate
 GPGGA_buffer = 0
 NMEA_buff = 0
 lat_in_degrees = 0
@@ -54,8 +63,6 @@ led_colors = {
     "above_speed_limit_+5": ["red", "red"]
 }
 
-HERE_API_KEY = os.getenv('HERE_API_KEY')
-HERE_API_URL = os.getenv('HERE_API_URL')
 # print("HERE API KEY: ", HERE_API_KEY)
 
 try:
