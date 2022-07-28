@@ -1,0 +1,4 @@
+{"current_speed": "0mph", "speed_limit": "30mph", "speed_status": "within_speed_limit", "led_colors": ["green", "green"]}
+{"current_speed": "0mph", "speed_limit": "30mph", "speed_status": "within_speed_limit", "led_colors": ["green", "green"]}
+{"current_speed": "0mph", "speed_limit": "30mph", "speed_status": "within_speed_limit", "led_colors": ["green", "green"]}
+{"current_speed": "0mph", "speed_limit": "30mph", "speed_status": "within_speed_limit", "led_colors": ["green", "green"]}
