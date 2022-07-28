@@ -10,7 +10,7 @@ Project uses raspberry pi and gps module to get current car speed and live speed
 
 ## Architecture diagram
 
-![alt text](live_speed_limit_sensor.jpg)
+![alt text](live_speed_limit_sensor.drawio.png)
 
 ## Equipment used
 1. Raspberry Pi 3b
