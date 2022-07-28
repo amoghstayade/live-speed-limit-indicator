@@ -1,0 +1,923 @@
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '10mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '12mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '14mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '16mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '17mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '16mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '16mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '15mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '15mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '14mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+^Cpi@raspberrypi1:~/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub $ nano test1.py
+pi@raspberrypi1:~/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub $ python3 test1.py
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '1mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '1mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '2mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '5mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '8mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '10mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '12mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '12mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '23mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '23mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '23mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '22mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '22mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '22mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '22mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '22mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '22mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '21mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '20mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '30mph', 'speed_limit': '30mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '28mph', 'speed_limit': '30mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '26mph', 'speed_limit': '30mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '25mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '24mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '24mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '24mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '24mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '24mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '23mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '21mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '25mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '26mph', 'speed_limit': '30mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '26mph', 'speed_limit': '30mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '26mph', 'speed_limit': '30mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '25mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '26mph', 'speed_limit': '30mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '27mph', 'speed_limit': '30mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '29mph', 'speed_limit': '30mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '30mph', 'speed_limit': '30mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '30mph', 'speed_limit': '30mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '30mph', 'speed_limit': '30mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '23mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '17mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '11mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '5mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '2mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '1mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '2mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '3mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '3mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '5mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '4mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '11mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '13mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '16mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '19mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '21mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '23mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '25mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '27mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '28mph', 'speed_limit': '50mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '28mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '28mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '23mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '19mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '17mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '13mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '10mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '7mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '2mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '7mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '9mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '13mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '16mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '19mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '21mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '24mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '25mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '24mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '23mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '21mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+^Cpi@raspberrypi1:~/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub $ nano test1.py
+pi@raspberrypi1:~/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub $ python3 test1.py
+{'current_speed': '0mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '2mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '2mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '60mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '60mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+^Cpi@raspberrypi1:~/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub $ nano test1.py
+pi@raspberrypi1:~/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub $ python3 test1.py
+{'current_speed': '0mph', 'speed_limit': '60mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '60mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '60mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '60mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '60mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '60mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '60mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '60mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '60mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '60mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '60mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '60mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '1mph', 'speed_limit': '60mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '5mph', 'speed_limit': '60mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '10mph', 'speed_limit': '60mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '15mph', 'speed_limit': '60mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '19mph', 'speed_limit': '60mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '23mph', 'speed_limit': '60mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '48mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '50mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '51mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '52mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '53mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '53mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '54mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '55mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '56mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '56mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '57mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '57mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '57mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '58mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '59mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '59mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '58mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '57mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '58mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '59mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '70mph', 'speed_limit': '70mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '72mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '74mph', 'speed_limit': '50mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '74mph', 'speed_limit': '50mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '75mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '74mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '72mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '69mph', 'speed_limit': '70mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '67mph', 'speed_limit': '70mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '65mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '63mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '62mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '61mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '59mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '57mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '57mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '59mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '60mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '63mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '72mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '71mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '70mph', 'speed_limit': '75mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '69mph', 'speed_limit': '70mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '70mph', 'speed_limit': '70mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '71mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '72mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '71mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '76mph', 'speed_limit': '75mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '75mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '76mph', 'speed_limit': '75mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '77mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '78mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '79mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '79mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '77mph', 'speed_limit': '75mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '74mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '72mph', 'speed_limit': '75mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '71mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '73mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '83mph', 'speed_limit': '75mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '83mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '83mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '84mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '85mph', 'speed_limit': '75mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '86mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '87mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '88mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '89mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '89mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '90mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '90mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '89mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '87mph', 'speed_limit': '75mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '83mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '79mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '76mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '74mph', 'speed_limit': '75mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '72mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '70mph', 'speed_limit': '75mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '69mph', 'speed_limit': '70mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '70mph', 'speed_limit': '70mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '72mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '73mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '74mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '73mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '72mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '71mph', 'speed_limit': '70mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '70mph', 'speed_limit': '70mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '68mph', 'speed_limit': '70mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '67mph', 'speed_limit': '70mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '62mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '62mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '61mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '61mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '60mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '60mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '60mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '61mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '60mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '59mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '59mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '51mph', 'speed_limit': '45mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '51mph', 'speed_limit': '45mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '51mph', 'speed_limit': '45mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '50mph', 'speed_limit': '45mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '48mph', 'speed_limit': '45mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '46mph', 'speed_limit': '45mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '46mph', 'speed_limit': '30mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '47mph', 'speed_limit': '30mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '46mph', 'speed_limit': '30mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '44mph', 'speed_limit': '30mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '40mph', 'speed_limit': '30mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '36mph', 'speed_limit': '30mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '32mph', 'speed_limit': '30mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '27mph', 'speed_limit': '30mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '22mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '17mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '14mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '12mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '1mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '5mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '9mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '12mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '15mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '16mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '17mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '18mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '18mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '19mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '20mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '21mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '21mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '19mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '19mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '34mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '35mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '36mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '36mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '35mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '34mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '34mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '35mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '35mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '35mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '35mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '35mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '35mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '35mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '35mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '35mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '34mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '33mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '27mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '23mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '11mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '12mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '14mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '15mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '16mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '17mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '18mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '19mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '20mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '21mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '22mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '23mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '24mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '24mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '23mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '22mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '21mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '18mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '13mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '9mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '10mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '12mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '15mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '18mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '21mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '24mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '27mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '30mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '32mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '33mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '34mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '35mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '35mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '34mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '34mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '34mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '34mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '34mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '34mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '34mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '35mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '37mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '38mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '40mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '41mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '43mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '42mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '42mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+Traceback (most recent call last):
+  File "/home/pi/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub/test1.py", line 69, in <module>
+    current_speed = int(float(GPVTG_arr[6])*0.62137119223733) #convert to mph
+ValueError: could not convert string to float: ''
+pi@raspberrypi1:~/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub $ python3 test1.py
+Traceback (most recent call last):
+  File "/home/pi/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub/test1.py", line 69, in <module>
+    current_speed = int(float(GPVTG_arr[6])*0.62137119223733) #convert to mph
+ValueError: could not convert string to float: ''
+pi@raspberrypi1:~/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub $ python3 test1.py
+Traceback (most recent call last):
+  File "/home/pi/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub/test1.py", line 69, in <module>
+    current_speed = int(float(GPVTG_arr[6])*0.62137119223733) #convert to mph
+ValueError: could not convert string to float: ''
+pi@raspberrypi1:~/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub $ nano test1.py
+pi@raspberrypi1:~/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub $ python3 test1.py
+{'current_speed': '1mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '1mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '1mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '2mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+Traceback (most recent call last):
+  File "/home/pi/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub/test1.py", line 62, in <module>
+    GPS_Info()                                          #get time, latitude, longitude
+  File "/home/pi/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub/test1.py", line 17, in GPS_Info
+    lat = float(nmea_latitude)                  #convert string into float for calculation
+ValueError: could not convert string to float: ''
+pi@raspberrypi1:~/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub $ nano test1.py
+pi@raspberrypi1:~/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub $ python3 test1.py
+{'current_speed': '6mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '6mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '6mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '5mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '5mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '5mph', 'speed_limit': '15mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '4mph', 'speed_limit': '15mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '6mph', 'speed_limit': '15mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '7mph', 'speed_limit': '15mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '8mph', 'speed_limit': '15mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '8mph', 'speed_limit': '15mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '9mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '8mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '6mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '4mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '3mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '12mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '14mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '17mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '20mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '22mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '26mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '28mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '29mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '32mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '33mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '35mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '36mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '37mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '37mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '37mph', 'speed_limit': '15mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '38mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '38mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '28mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '25mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '20mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '16mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '13mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '10mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '8mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '6mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '5mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '5mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '6mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '7mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '9mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '12mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '14mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '16mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '18mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '20mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '21mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '30mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '30mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '32mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '33mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '32mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '32mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '32mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '32mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '32mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '32mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '32mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '33mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '33mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '34mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '33mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '33mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '34mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '36mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '36mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '37mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '39mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '39mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '38mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '39mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '37mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '37mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '35mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '35mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '33mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '32mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '30mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '30mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '30mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '26mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '24mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '30mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '32mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '33mph', 'speed_limit': '25mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '34mph', 'speed_limit': '25mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '35mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '35mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '36mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '37mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '38mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '38mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '39mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '39mph', 'speed_limit': '40mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '39mph', 'speed_limit': '40mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '40mph', 'speed_limit': '40mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '40mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '40mph', 'speed_limit': '40mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '40mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '40mph', 'speed_limit': '40mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '40mph', 'speed_limit': '40mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+Traceback (most recent call last):
+  File "/home/pi/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub/test1.py", line 62, in <module>
+    GPS_Info()                                          #get time, latitude, longitude
+  File "/home/pi/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub/test1.py", line 17, in GPS_Info
+    lat = float(nmea_latitude)                  #convert string into float for calculation
+ValueError: could not convert string to float: ''
+pi@raspberrypi1:~/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub $ python3 test1.py
+{'current_speed': '31mph', 'speed_limit': '40mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '31mph', 'speed_limit': '40mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '32mph', 'speed_limit': '40mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '31mph', 'speed_limit': '40mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '31mph', 'speed_limit': '40mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '31mph', 'speed_limit': '40mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '30mph', 'speed_limit': '40mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '30mph', 'speed_limit': '40mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '29mph', 'speed_limit': '40mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '26mph', 'speed_limit': '40mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '24mph', 'speed_limit': '40mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '22mph', 'speed_limit': '40mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '19mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '17mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '14mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '11mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '9mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '8mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '7mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '6mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+Traceback (most recent call last):
+  File "/home/pi/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub/test1.py", line 62, in <module>
+    GPS_Info()                                          #get time, latitude, longitude
+  File "/home/pi/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub/test1.py", line 17, in GPS_Info
+    lat = float(nmea_latitude)                  #convert string into float for calculation
+ValueError: could not convert string to float: ''
+pi@raspberrypi1:~/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub $ python3 test1.py
+Traceback (most recent call last):
+  File "/home/pi/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub/test1.py", line 62, in <module>
+    GPS_Info()                                          #get time, latitude, longitude
+  File "/home/pi/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub/test1.py", line 17, in GPS_Info
+    lat = float(nmea_latitude)                  #convert string into float for calculation
+ValueError: could not convert string to float: ''
+pi@raspberrypi1:~/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub $ python3 test1.py
+{'current_speed': '7mph', 'speed_limit': '5mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '6mph', 'speed_limit': '5mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '5mph', 'speed_limit': '5mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '4mph', 'speed_limit': '5mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '4mph', 'speed_limit': '5mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '4mph', 'speed_limit': '5mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '3mph', 'speed_limit': '5mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '2mph', 'speed_limit': '5mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '3mph', 'speed_limit': '5mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '3mph', 'speed_limit': '5mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '0mph', 'speed_limit': '5mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '1mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '3mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '4mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '2mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '4mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '5mph', 'speed_limit': '5mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '6mph', 'speed_limit': '5mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '6mph', 'speed_limit': '5mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '19mph', 'speed_limit': '40mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '21mph', 'speed_limit': '40mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '23mph', 'speed_limit': '40mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '25mph', 'speed_limit': '40mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '25mph', 'speed_limit': '5mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '25mph', 'speed_limit': '5mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '26mph', 'speed_limit': '5mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '28mph', 'speed_limit': '5mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '28mph', 'speed_limit': '5mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '30mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '31mph', 'speed_limit': '5mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '31mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '32mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '32mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '32mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '34mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+Traceback (most recent call last):
+  File "/home/pi/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub/test1.py", line 62, in <module>
+    GPS_Info()                                          #get time, latitude, longitude
+  File "/home/pi/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub/test1.py", line 17, in GPS_Info
+    lat = float(nmea_latitude)                  #convert string into float for calculation
+ValueError: could not convert string to float: ''
+pi@raspberrypi1:~/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub $ python3 test1.py
+{'current_speed': '37mph', 'speed_limit': '75mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '37mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '38mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '38mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '38mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '38mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '38mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '38mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '38mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '38mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '38mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '37mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '37mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '36mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+Traceback (most recent call last):
+  File "/home/pi/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub/test1.py", line 62, in <module>
+    GPS_Info()                                          #get time, latitude, longitude
+  File "/home/pi/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub/test1.py", line 17, in GPS_Info
+    lat = float(nmea_latitude)                  #convert string into float for calculation
+ValueError: could not convert string to float: ''
+pi@raspberrypi1:~/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub $ python3 test1.py
+Traceback (most recent call last):
+  File "/home/pi/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub/test1.py", line 62, in <module>
+    GPS_Info()                                          #get time, latitude, longitude
+  File "/home/pi/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub/test1.py", line 17, in GPS_Info
+    lat = float(nmea_latitude)                  #convert string into float for calculation
+ValueError: could not convert string to float: ''
+pi@raspberrypi1:~/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub $ python3 test1.py
+Traceback (most recent call last):
+  File "/home/pi/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub/test1.py", line 62, in <module>
+    GPS_Info()                                          #get time, latitude, longitude
+  File "/home/pi/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub/test1.py", line 17, in GPS_Info
+    lat = float(nmea_latitude)                  #convert string into float for calculation
+ValueError: could not convert string to float: ''
+pi@raspberrypi1:~/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub $ python3 test1.py
+Traceback (most recent call last):
+  File "/home/pi/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub/test1.py", line 62, in <module>
+    GPS_Info()                                          #get time, latitude, longitude
+  File "/home/pi/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub/test1.py", line 17, in GPS_Info
+    lat = float(nmea_latitude)                  #convert string into float for calculation
+ValueError: could not convert string to float: ''
+pi@raspberrypi1:~/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub $ client_loop: send disconnect: Broken pipe
+Amoghs-MacBook-Pro:~ amogh$ ssh pi@172.20.10.2
+pi@172.20.10.2's password:
+Linux raspberrypi1 5.15.32-v7+ #1538 SMP Thu Mar 31 19:38:48 BST 2022 armv7l
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Last login: Wed Jul 27 12:57:37 2022
+pi@raspberrypi1:~ $ cd Desktop/DHT11_project/
+bin/                     rpi-arduino-sensor-demo/
+pi@raspberrypi1:~ $ cd Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub/
+pi@raspberrypi1:~/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub $ python test1.py
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '1mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '2mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '1mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '1mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '2mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '2mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '3mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '5mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '6mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '7mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '8mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '9mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '6mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '9mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '8mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '1mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '2mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '1mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '2mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '2mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '2mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '2mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '2mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '3mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '2mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '2mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '3mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '5mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '4mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '4mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '9mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '10mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '11mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '11mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '11mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '10mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '8mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '7mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '5mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '3mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '1mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '2mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '4mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '6mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '7mph', 'speed_limit': '0mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '24mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '25mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '27mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '28mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '29mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '27mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '26mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '25mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '25mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '26mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '27mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '27mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '26mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '26mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '28mph', 'speed_limit': '30mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '29mph', 'speed_limit': '30mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '29mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '29mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '29mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '32mph', 'speed_limit': '30mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '32mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '33mph', 'speed_limit': '30mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '34mph', 'speed_limit': '30mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '34mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '34mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '35mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '36mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '35mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '35mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '34mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '32mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '31mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '30mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '29mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '28mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '26mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '25mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '23mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '19mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '30mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '31mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '33mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '34mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '33mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '33mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '31mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '30mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '27mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '27mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '30mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '33mph', 'speed_limit': '35mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '36mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '39mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '41mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '42mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '42mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '39mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '36mph', 'speed_limit': '35mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '30mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '53mph', 'speed_limit': '55mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '54mph', 'speed_limit': '55mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '53mph', 'speed_limit': '55mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '52mph', 'speed_limit': '55mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '52mph', 'speed_limit': '55mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '53mph', 'speed_limit': '55mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '55mph', 'speed_limit': '55mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '57mph', 'speed_limit': '55mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '58mph', 'speed_limit': '55mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '59mph', 'speed_limit': '55mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '59mph', 'speed_limit': '55mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '58mph', 'speed_limit': '55mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '56mph', 'speed_limit': '55mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '55mph', 'speed_limit': '55mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '52mph', 'speed_limit': '55mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '16mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '16mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '16mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '16mph', 'speed_limit': '70mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '16mph', 'speed_limit': '75mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '17mph', 'speed_limit': '75mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '19mph', 'speed_limit': '75mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '21mph', 'speed_limit': '50mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '19mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '16mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '11mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '6mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '3mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '2mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '2mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '1mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '2mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '3mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '2mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '0mph', 'speed_limit': '35mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '17mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '20mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '23mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '26mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '28mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '31mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '33mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '35mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '36mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '35mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '33mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '35mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '38mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '40mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '42mph', 'speed_limit': '45mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '44mph', 'speed_limit': '45mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '47mph', 'speed_limit': '45mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '50mph', 'speed_limit': '45mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '40mph', 'speed_limit': '45mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '42mph', 'speed_limit': '45mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '43mph', 'speed_limit': '45mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '44mph', 'speed_limit': '45mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '44mph', 'speed_limit': '45mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '46mph', 'speed_limit': '45mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '47mph', 'speed_limit': '45mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '49mph', 'speed_limit': '45mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '50mph', 'speed_limit': '45mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '51mph', 'speed_limit': '45mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '53mph', 'speed_limit': '45mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '54mph', 'speed_limit': '45mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '53mph', 'speed_limit': '45mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '51mph', 'speed_limit': '45mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '50mph', 'speed_limit': '45mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '48mph', 'speed_limit': '45mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '47mph', 'speed_limit': '45mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '45mph', 'speed_limit': '45mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '44mph', 'speed_limit': '45mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '51mph', 'speed_limit': '55mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '50mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '49mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '48mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '46mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '44mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '42mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '39mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '35mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '29mph', 'speed_limit': '55mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '23mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '19mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '15mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '11mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '10mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '10mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '13mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '15mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '39mph', 'speed_limit': '30mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '39mph', 'speed_limit': '30mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '37mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '36mph', 'speed_limit': '30mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '36mph', 'speed_limit': '30mph', 'speed_status': 'above_speed_limit_+5', 'led_colors': ['red', 'red']}
+{'current_speed': '35mph', 'speed_limit': '30mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '33mph', 'speed_limit': '30mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '31mph', 'speed_limit': '30mph', 'speed_status': 'above_speed_limit', 'led_colors': ['orange', 'red']}
+{'current_speed': '29mph', 'speed_limit': '30mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '26mph', 'speed_limit': '30mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '22mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '18mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '17mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '16mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '16mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '19mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '22mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '25mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '28mph', 'speed_limit': '30mph', 'speed_status': 'nearing_speed_limit', 'led_colors': ['orange', 'orange']}
+{'current_speed': '19mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '21mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '24mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '25mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '23mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '18mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '12mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '8mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '3mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '1mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '1mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '2mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '3mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '2mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '2mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+{'current_speed': '5mph', 'speed_limit': '30mph', 'speed_status': 'within_speed_limit', 'led_colors': ['green', 'green']}
+Traceback (most recent call last):
+  File "/home/pi/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub/test1.py", line 62, in <module>
+    GPS_Info()                                          #get time, latitude, longitude
+  File "/home/pi/Desktop/DHT11_project/rpi-arduino-sensor-demo/raspbberrypi_send_to_iothub/test1.py", line 17, in GPS_Info
+    lat = float(nmea_latitude)                  #convert string into float for calculation
+ValueError: could not convert string to float: ''
